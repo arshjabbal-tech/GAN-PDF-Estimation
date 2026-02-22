@@ -44,7 +44,7 @@ Discriminator:
 
 <img width="400" height="446" alt="Screenshot 2026-02-22 at 10 01 44 PM" src="https://github.com/user-attachments/assets/9fbf2a5f-57b5-4798-bde9-4ef73d44c0f7" />
 
-### Observations
+## Observations
 
 **Mode Coverage**
 - The generator captures the dominant peak of the distribution and aligns well with the real sample histogram.
