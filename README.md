@@ -4,7 +4,7 @@
 Learn unknown probability density function using GAN from transformed NO2 concentration data.
 
 ## Dataset
-India Air Quality Dataset (Kaggle)
+
 https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
 
 NO₂ concentration values were extracted from the dataset and used as the feature (x).
